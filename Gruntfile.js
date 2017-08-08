@@ -40,7 +40,7 @@ module.exports = function (grunt) {
       },
       pages: {
         options: {
-          remote: 'git@github.com:hardyj1/hardyj1.githun.io.git',
+          remote: 'git@github.com:hardyj1/hardyj1.github.io.git',
           branch: 'gh-pages'
         }
       }
